@@ -1,0 +1,111 @@
+{
+  "name": "Harmony",
+  "author": "Lop01#2838",
+  "theme_color_map": {
+    "KEYBOARD": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#9243eb",
+      "#FFFFFF"
+    ],
+    "HEADER_PRIMARY": [
+      "#ffffff",
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#9243eb",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ffffff",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#aaaaaa",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#aaaaaa",
+      "#FFFFFF"
+    ],
+    "TEXT_LINK": [
+      "#9243eb",
+      "#FFFFFF"
+    ],
+    "TEXT_MUTED": [
+      "#9243eb",
+      "#FFFFFF"
+    ],
+    "TEXT_NORMAL": [
+      "#9243eb",
+      "#FFFFFF"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#ffffff",
+    "PRIMARY_DARK_100": "#ffffff",
+    "PRIMARY_DARK_300": "#ffffff",
+    "PRIMARY_DARK_360": "#cccccc",
+    "PRIMARY_DARK_400": "#9243eb",
+    "PRIMARY_DARK_500": "#9243eb",
+    "PRIMARY_DARK_600": "#111111",
+    "PRIMARY_DARK_630": "#353535",
+    "PRIMARY_DARK_700": "#353535",
+    "PRIMARY_DARK_800": "#000000",
+    "BRAND_NEW": "#9243eb",
+    "WHITE": "#FFFFFF"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#121212"
+  }
+}
